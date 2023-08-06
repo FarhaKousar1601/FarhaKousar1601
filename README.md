@@ -15,7 +15,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=FarhaKousar1601&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FarhaKousar1601&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhaKousar1601&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 [![](https://visitcount.itsvg.in/api?id=FarhaKousar1601&icon=0&color=0)](https://visitcount.itsvg.in)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhakousar1601&label=Profile%20views&color=0e75b6&style=flat" alt="farhakousar1601" /> </p>
+
 
 
