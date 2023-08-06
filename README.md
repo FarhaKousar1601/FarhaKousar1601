@@ -1,6 +1,10 @@
 # 💫 About Me:
-# 👩‍🎓 About Me<br><br>- 🎓 Student at KNS Institute of Technology, pursuing AIML (Artificial Intelligence and Machine Learning).<br>- 📅 Batch: 2021-2025, Currently in 2nd year, 4th semester.<br>- 💡 Hobby: Exploring new skills and staying updated with the ever-evolving world of technology, writing, building knowledge, and giving self-pep talks.<br><br># 👩‍💻 Skills<br><br>- 💻 Programming Languages: C, C++, Java, Python, Matlab.<br>- 🗣 Soft Skills: Effective communication and interpersonal skills.<br>- 🚀 Ongoing Development: Continuously improving my programming and development skills.<br><br><br># 📚 Internships<br><br>- 🏢 Internship at Indian Tech Key: Participated in an internship program and received a certificate.<br>- 🏢 Internship at Nano Robotics Embed Technologies: Gained valuable experience during this internship program and earned a certificate.<br><br>I am passionate about learning, growing, and making a positive impact in the tech world. Feel free to reach out to me for any collaboration or discussions! 🌟
-
+# 👩‍🎓 About Me<br><br>- 🎓 Student at KNS Institute of Technology, pursuing AIML (Artificial Intelligence and Machine Learning).<br>- 📅 Batch: 2021-2025, Currently in 2nd year, 4th semester.<br><br># 👩‍💻 Skills<br><br>- 💻 Programming Languages: C, C++, Java, Python, Matlab.<br>- 🗣 Soft Skills: Effective communication and interpersonal skills.<br>- 🚀 Ongoing Development: Continuously improving my programming and development skills.<br><br>
+<div class="image-container">
+  <img align="right" alt="coding" width="400" src="https://cdn.stuffanswered.com/stuffanswered/wp-content/uploads/2020/10/what-are-the-best-programs-for-learning-to-code.jpg">
+</div>
+</body>
+</html>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/farhakousar576?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/farhakousar16?igshid=ZDdkNTZiNTM=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/farha-kousar-6a9h1) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Farha-Kousar-4?ch=10&oid=1201136339&share=2b88e860&srid=uktngC&target_type=user) 
@@ -11,9 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=FarhaKousar1601&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FarhaKousar1601&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhaKousar1601&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FarhaKousar1601&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FarhaKousar1601&icon=0&color=0)](https://visitcount.itsvg.in)
