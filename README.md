@@ -24,4 +24,4 @@
 
 [![FarhaKousar1601's GitHub | Languages](https://stats.quine.sh/FarhaKousar1601/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=FarhaKousar1601)
 
-[![FarhaKousar1601's Stack Overflow | Stats](https://stats.quine.sh/FarhaKousar1601/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=FarhaKousar1601)
+
