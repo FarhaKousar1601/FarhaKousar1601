@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👩‍🎓 About Me<br><br>- 🎓 Student at KNS Institute of Technology, pursuing AIML (Artificial Intelligence and Machine Learning).<br>- 📅 Batch: 2021-2025, Currently in 2nd year, 4th semester.<br><br># 👩‍💻 Skills<br><br>- 💻 Programming Languages: C, C++, Java, Python, Matlab.<br>- 🗣 Soft Skills: Effective communication and interpersonal skills.<br>- 🚀 Ongoing Development: Continuously improving my programming and development skills.<br><br>
+# 👩‍🎓 About Me<br><br>- 🎓 Student at KNS Institute of Technology, pursuing AIML (Artificial Intelligence and Machine Learning).<br>- 📅 Batch: 2021-2025, Currently in 2nd year, 4th semester.<br><br> # 👩‍💻 Skills<br><br>- 💻 Programming Languages: C, C++, Java, Python, Matlab.<br>- 🗣 Soft Skills: Effective communication and interpersonal skills.<br>- 🚀 Ongoing Development: Continuously improving my programming and development skills.<br><br>
 <div class="image-container">
   <img align="right" alt="coding" width="400" src="https://cdn.stuffanswered.com/stuffanswered/wp-content/uploads/2020/10/what-are-the-best-programs-for-learning-to-code.jpg">
 </div>
