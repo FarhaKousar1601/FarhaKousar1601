@@ -31,3 +31,6 @@
 [![FarhaKousar1601's GitHub | Languages](https://stats.quine.sh/FarhaKousar1601/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=FarhaKousar1601)
 
 
+<a href="https://wakatime.com/@Farhakousar1601">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Farhakousar1601&theme=react-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+</a>
