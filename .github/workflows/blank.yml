@@ -1,32 +1,24 @@
-name: Update Profile Readme
-
 on:
-  push:
-    branches:
-      - main  # Change this to the appropriate branch
-
+push:
+branches:
+- main # Change this to your main branch name
 jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
-
-    - name: Setup Node.js
-      uses: actions/setup-node@v2
-      with:
-        node-version: '14'
-
-    - name: Install dependencies
-      run: npm install
-
-    - name: Update Readme
-      run: node update-readme.js  # Replace with the actual script/command to update your readme
-
-    - name: Commit changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git commit -am "Update profile readme" || true
-        git push
+build:
+runs-on: ubuntu-latest
+steps:
+- name: Checkout Repository
+uses: actions/checkout@v2
+- name: Set Up Node.js
+uses: actions/setup-node@v2
+with:
+node-version: '14'
+- name: Install Dependencies
+run: npm install
+- name: Generate Readme
+run: npm run generate-readme # Replace with your build command
+- name: Commit and Push Changes
+run: |
+git config --global user.name 'Farhakousar1601'
+git config --global user.email 'Farhakousar1601@gmail.com'
+git commit -am "Update profile readme" --allow-empty
+git push
