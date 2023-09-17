@@ -6,6 +6,7 @@
 </body>
 </html>
 
+    
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/farhakousar576?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/farhakousar16?igshid=ZDdkNTZiNTM=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/farha-kousar-6a9h1) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Farha-Kousar-4?ch=10&oid=1201136339&share=2b88e860&srid=uktngC&target_type=user) 
 
@@ -32,7 +33,7 @@
 [![FarhaKousar1601's GitHub | Languages](https://stats.quine.sh/FarhaKousar1601/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=FarhaKousar1601)
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<div> <a href="https://github.com/farhakousar1601" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+
 </div><h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhakousar1601&langs_count=8&theme=" alt=farhakousar1601 />
 
