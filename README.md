@@ -1,12 +1,19 @@
-# 💫 About Me:
-# 👩‍🎓 About Me<br><br>- 🎓 Student at KNS Institute of Technology, pursuing AIML (Artificial Intelligence and Machine Learning).<br>- 📅 Batch: 2021-2025, Currently in 2nd year, 4th semester.<br><br> 👩‍💻 Skills<br><br>- 💻 Programming Languages: C, C++, Java, Python, Matlab.<br>- 🗣 Soft Skills: Effective communication and interpersonal skills.<br>- 🚀 Ongoing Development: Continuously improving my programming and development skills.<br><br>
-<div class="image-container">
-  <img align="right" alt="coding" width="400" src="https://cdn.stuffanswered.com/stuffanswered/wp-content/uploads/2020/10/what-are-the-best-programs-for-learning-to-code.jpg">
-</div>
-</body>
-</html>
+# Hi, I'm Farha Kousar 👋
 
-    
+I'm a student pursuing a B.E. in artificial intelligence and machine learning. I'm passionate about tech and always eager to learn new things. Here's a bit about me:
+
+- 💻 My technical skills include proficiency in programming languages like C, C++, Java, and Python.
+- 🌐 I have experience with version control using Git and GitHub.
+- 🛠️ I enjoy collaborating as an open-source contributor.
+- 📊 I'm currently learning data science with Python.
+- 📚 My hobby is learning new things and staying curious.
+
+
+<img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202023-10-22%20203340.png" width="256" />
+
+<img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/NUX_Octodex.gif" width="250" />
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/farhakousar576?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/farhakousar16?igshid=ZDdkNTZiNTM=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/farha-kousar-6a9h1) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Farha-Kousar-4?ch=10&oid=1201136339&share=2b88e860&srid=uktngC&target_type=user) 
 
@@ -50,5 +57,15 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=farhakousar1601&theme=github-compact"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+[![An image of @farhakousar1601's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/farhakousar1601)](https://holopin.io/@farhakousar1601)
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FarhaKousar1601)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+![GitHub metrics](https://metrics.lecoq.io/FarhaKousar1601)  
 
 
