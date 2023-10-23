@@ -1,4 +1,9 @@
 # Hi, I'm Farha Kousar 👋
+<img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/NUX_Octodex.gif" width="250" align="right" />
+<div align="center">
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/NUX_Octodex.gif" width="250" align="right" />
+</div>
+
 
 I'm a student pursuing a B.E. in artificial intelligence and machine learning. I'm passionate about tech and always eager to learn new things. Here's a bit about me:
 
@@ -11,7 +16,7 @@ I'm a student pursuing a B.E. in artificial intelligence and machine learning. I
 
 <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202023-10-22%20203340.png" width="256" />
 
-<img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/NUX_Octodex.gif" width="250" />
+
 
 
 ## 🌐 Socials:
