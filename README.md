@@ -1,7 +1,7 @@
 # Hi, I'm Farha Kousar 👋      
 
 
-   <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/NUX_Octodex.gif" width="150" align="right" />
+   <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/NUX_Octodex.gif" width="250"  />
 
 
 
