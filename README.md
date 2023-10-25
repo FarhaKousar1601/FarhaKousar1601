@@ -80,6 +80,5 @@ I'm a student pursuing a B.E. in artificial intelligence and machine learning. I
 
 
 
-
-![Alt text](https://FarhaKousar1601.wrapped.run)
+<img src="https://FarhaKousar1601.wrapped.run">
 
