@@ -18,8 +18,6 @@ I'm a student pursuing a B.E. in artificial intelligence and machine learning. I
 - 📚 My hobby is learning new things and staying curious.
 
 
-<img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202023-10-22%20203340.png" width="256" />
-
 
 
 
