@@ -78,5 +78,5 @@ I'm a student pursuing a B.E. in artificial intelligence and machine learning. I
 
 
 
-<img src="https://api.githubtrends.io/user/svg/FarhaKousar1601/repos?time_range=one_year&loc_metric=changed&theme=classic">
+<img src="https://FarhaKousar1601.wrapped.run">
 
