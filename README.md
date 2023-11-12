@@ -16,9 +16,13 @@ I'm a student pursuing a B.E. in artificial intelligence and machine learning. I
 - 🛠️ I enjoy collaborating as an open-source contributor.
 - 📊 I'm currently learning data science with Python.
 - 📚 My hobby is learning new things and staying curious.
+- 🚀 Ongoing Development: Continuously improving my programming and development skills.
 
-
-
+<div class="image-container">
+  <img align="right" alt="coding" width="400" src="https://cdn.stuffanswered.com/stuffanswered/wp-content/uploads/2020/10/what-are-the-best-programs-for-learning-to-code.jpg">
+</div>
+</body>
+</html>
 
 
 ## 🌐 Socials:
