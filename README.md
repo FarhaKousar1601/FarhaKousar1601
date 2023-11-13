@@ -7,8 +7,6 @@
 
 
 
-
-
 I'm a student pursuing a B.E. in artificial intelligence and machine learning. I'm passionate about tech and always eager to learn new things. Here's a bit about me:
 
 - 💻 My technical skills include proficiency in programming languages like C, C++, Java, and Python.
@@ -80,6 +78,7 @@ I'm a student pursuing a B.E. in artificial intelligence and machine learning. I
 ![GitHub metrics](https://metrics.lecoq.io/FarhaKousar1601)  
 
 
+![image](https://github.com/FarhaKousar1601/FarhaKousar1601/assets/139753510/2beea17e-5459-4104-9cd5-d2319e722f61)
 
 
 
