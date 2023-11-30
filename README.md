@@ -1,3 +1,10 @@
+<img src="https://github.com/FarhaKousar1601/FarhaKousar1601/raw/main/Farha%20Kousar%20(2).png" alt="GitHub Profile Banner">
+
+
+
+
+
+
 # Hi, I'm Farha Kousar 👋      
 
 
