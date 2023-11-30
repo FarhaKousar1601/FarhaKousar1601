@@ -9,6 +9,21 @@
 
 I'm a student pursuing a B.E. in artificial intelligence and machine learning. I'm passionate about tech and always eager to learn new things. Here's a bit about me:
 
+
+![Learning Data Science](https://img.shields.io/badge/Learning-Data%20Science-%23108CFF.svg?style=plastic&logo=data)
+![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-%2346BC25.svg?style=plastic&logo=github)
+![Tech Enthusiast](https://img.shields.io/badge/Tech-Enthusiast-%23FFD700.svg?style=plastic&logo=tech)
+![Coding Challenges](https://img.shields.io/badge/Coding-Challenges-%23FF6347.svg?style=plastic&logo=codeforces)
+![Innovation Seeker](https://img.shields.io/badge/Innovation-Seeker-%238A2BE2.svg?style=plastic&logo=innovation)
+![Continuous Learner](https://img.shields.io/badge/Continuous-Learner-%232E8B57.svg?style=plastic&logo=learn)
+![AI/ML Enthusiast](https://img.shields.io/badge/AI%2FML-Enthusiast-%230075A8.svg?style=plastic&logo=ai)
+
+
+
+
+
+
+
 - 💻 My technical skills include proficiency in programming languages like C, C++, Java, and Python.
 - 🌐 I have experience with version control using Git and GitHub.
 - 🛠️ I enjoy collaborating as an open-source contributor.
