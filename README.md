@@ -49,7 +49,7 @@ I'm a student pursuing a B.E. in artificial intelligence and machine learning. I
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/farhakousar576?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/farhakousar16?igshid=ZDdkNTZiNTM=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/farha-kousar-6a9h1) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Farha-Kousar-4?ch=10&oid=1201136339&share=2b88e860&srid=uktngC&target_type=user) 
 
 ![GitHub Followers](https://img.shields.io/github/followers/FarhaKousar1601?style=social)
-![DEV Community Followers](https://img.shields.io/badge/DEV%20Community-1006-%230A0A0A.svg?style=social&logo=dev.to)
+![DEV Community Followers](https://img.shields.io/badge/DEV%20Community-1000+-%230A0A0A.svg?style=social&logo=dev.to)
 ![LinkedIn Connections](https://img.shields.io/badge/LinkedIn-500+-%230A66C2.svg?style=social&logo=linkedin)
 
 
