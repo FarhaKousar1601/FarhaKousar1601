@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/raw/main/Farha%20Kousar%20(2).png" alt="GitHub Profile Banner">
 
 
@@ -72,8 +73,10 @@ I'm a student pursuing a B.E. in artificial intelligence and machine learning. I
 [![FarhaKousar1601's GitHub | Stats](https://stats.quine.sh/FarhaKousar1601/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=FarhaKousar1601)
 
 [![FarhaKousar1601's GitHub | Languages](https://stats.quine.sh/FarhaKousar1601/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=FarhaKousar1601)
+[![FarhaKousar1601's GitHub | Topics Over Time](https://stats.quine.sh/FarhaKousar1601/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=FarhaKousar1601)
+[![FarhaKousar1601's GitHub | Dependencies](https://stats.quine.sh/FarhaKousar1601/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=FarhaKousar1601)
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 
 </div><h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhakousar1601&langs_count=8&theme=" alt=farhakousar1601 />
@@ -90,7 +93,7 @@ I'm a student pursuing a B.E. in artificial intelligence and machine learning. I
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=farhakousar1601&theme=github-compact"/>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
 
 [![An image of @farhakousar1601's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/farhakousar1601)](https://holopin.io/@farhakousar1601)
 
@@ -105,5 +108,5 @@ I'm a student pursuing a B.E. in artificial intelligence and machine learning. I
 
 ![image](https://github.com/FarhaKousar1601/FarhaKousar1601/assets/139753510/2beea17e-5459-4104-9cd5-d2319e722f61)
 
-
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
