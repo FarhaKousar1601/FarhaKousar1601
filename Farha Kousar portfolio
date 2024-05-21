@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Portfolio</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css'>
+<link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.2/font/bootstrap-icons.css'>
+<link rel='stylesheet' href='https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&family=Poppins:wght@100;300;400;500;600;700;800;900&family=Ubuntu:wght@300;400;500;700&display=swap"rel="stylesheet'>
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css'>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <div class="scroll-up-btn">
+        <i class="fas fa-angle-up"></i>
+      </div>
+      <!-- Header -->
+      <nav class="navbar">
+        <div class="max-width">
+          <div class="logo"><a href="#"><span>AISTECHX</span><span>.com</span></a></div>
+          <ul class="menu">
+            <li><a href="#home" class="menu-btn"><strong>Home</strong></a></li>
+            <li><a href="#about" class="menu-btn"><strong>About</strong></a></li>
+            <li><a href="#services" class="menu-btn"><strong>Services</strong></a></li>
+            <li><a href="#skills" class="menu-btn"><strong>Skills</strong></a></li>
+            <li><a href="#projects" class="menu-btn"><strong>Projects</strong></a></li>
+            <li><a href="#contact" class="menu-btn"><strong>Contact</strong></a></li>
+          </ul>
+          <div class="menu-btn">
+            <i class="fas fa-bars"></i>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Home -->
+      <section class="home" id="home">
+        <div class="max-width">
+          <div class="home-content">
+            <div class="text-1">Hello, This is</div>
+            <div class="text-2">Farha Kousar</div>
+            <div class="text-3">And I'm a <span class="typing"></span></div>
+            <a href="#">Hire me</a>
+          </div>
+        </div>
+      </section>
+
+      <!--  About  -->
+      <section class="about" id="about">
+        <div class="max-width">
+          <h2 class="title">About Me</h2>
+          <div class="about-content">
+            <div class="column left">
+              
+            </div>
+            <div class="column right">
+              <div class="text">I'm Farha and I'm a <span class="typing-2"></span></div>
+              <p>Seeking an entry-level opportunity with an esteemed organization where I can utilize my skills & enhance learning in the field of work. Capable of mastering new technologies.</p>
+              <br>
+              <div class="text">Why Work With Me</div>
+              <p>I'm a great communicator & love to invest the necessary time to understand the customer's problem very well.</p>
+
+              <a href="#link" target="blank">Download CV</a>
+            </div>
+          </div>
+        </div>
+      </section>
+<!-- Services -->
+      <section class="services" id="services">
+        <div class="max-width">
+          <h2 class="title">My services</h2>
+          <div class="serv-content">
+            <div class="card">
+              <div class="box">
+                <i class="fas fa-laptop-code"></i>
+                <div class="text">Web Design</div>
+                <p>Your Next Web Developer, who is working in Shopify Dropshipping Stores, High Converting Ecommerce stores, Product Page also having Custom code, liquid template design.</p>
+              </div>
+            </div>
+            <div class="card">
+              <div class="box">
+                <i class="fas fa-user-secret"></i>
+                <div class="text">User Secret</div>
+                <p>I ensures that, there is no sensitive data included in the source code and are stored outside of the project folder. And all the data which is stored by User Secrets is not encrypted.</p>
+              </div>
+            </div>
+            <div class="card">
+              <div class="box">
+                <i class="fas fa-code"></i>
+                <div class="text">Apps Design</div>
+                <p>I encompasses both the user interface(UI) & user experience(UX). The overall style of the app, including things like the colour scheme, font selection, and the types of buttons and widgets which will use.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Skills -->
+      <section class="skills" id="skills">
+        <div class="max-width">
+          <h2 class="title">My Skills</h2>
+          <div class="skills-content">
+            <div class="column left">
+
+              <div class="text">INTERNSHIP</div>
+              <p>
+                <li class="intern">#Company Name "Where You work"</li>
+                <li class="intern">#Company Name "Where You work"</li>
+                <li class="intern">#Company Name "Where You work"</li>
+              </p>
+
+              <br>
+              <div class="text">PROJECT</div>
+
+              <p>
+                <li class="project">Portfolio (HTML, CSS, js, Bootstraps)</li>
+                <li class="project">eCommerce Website (Shopify liquid-code, HTML, CSS)</li>
+                <li class="project">QuickShop - eCommerce Website (Like Amazon, Flipkart etc.)</li>
+                <li class="project">Fully Responsive Design Email Subscribe form</li>
+                <li class="project">Blog (HTML, CSS, Bootstraps)</li>
+                <li class="project">Currently Working on a Messaging App (Like WhatsApp)</li>
+              </p>
+
+              <br>
+              <div class="text">DEVELOPMENT SKILLS</div>
