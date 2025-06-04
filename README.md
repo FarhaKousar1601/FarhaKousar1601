@@ -8,13 +8,6 @@
 
 # Hi, I'm Farha Kousar 👋      
 
-
-   <img src="Blue Purple Modern Abstract Tech Background Data Analyst LinkedIn Banner.gif" width="250"  />
-
-
-
-
-
 I'm a student pursuing a B.E. in artificial intelligence and machine learning. I'm passionate about tech and always eager to learn new things. Here's a bit about me:
 
 
@@ -25,10 +18,6 @@ I'm a student pursuing a B.E. in artificial intelligence and machine learning. I
 ![Innovation Seeker](https://img.shields.io/badge/Innovation-Seeker-%238A2BE2.svg?style=plastic&logo=innovation)
 ![Continuous Learner](https://img.shields.io/badge/Continuous-Learner-%232E8B57.svg?style=plastic&logo=learn)
 ![AI/ML Enthusiast](https://img.shields.io/badge/AI%2FML-Enthusiast-%230075A8.svg?style=plastic&logo=ai)
-
-
-
-
 
 
 
