@@ -9,7 +9,7 @@
 # Hi, I'm Farha Kousar 👋      
 
 
-   <img src="[https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/NUX_Octodex.gif](https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Blue%20Purple%20Modern%20Abstract%20Tech%20Background%20Data%20Analyst%20LinkedIn%20Banner.gif)" width="250"  />
+   <img src="Blue Purple Modern Abstract Tech Background Data Analyst LinkedIn Banner.gif" width="250"  />
 
 
 
