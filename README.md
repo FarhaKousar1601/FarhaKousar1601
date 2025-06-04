@@ -4,12 +4,13 @@
 
 
 
+# 👋 Hi, I'm Farha Kousar
 
+🎓Graduate B.E. in Artificial Intelligence and Machine Learning  
 
-# Hi, I'm Farha Kousar 👋      
+🚀 Actively Seeking Full-Time Roles 
 
-I'm a student pursuing a B.E. in artificial intelligence and machine learning. I'm passionate about tech and always eager to learn new things. Here's a bit about me:
-
+🎯 Passionate about AI/ML, Data Analytics, and Python Development  
 
 ![Learning Data Science](https://img.shields.io/badge/Learning-Data%20Science-%23108CFF.svg?style=plastic&logo=data)
 ![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-%2346BC25.svg?style=plastic&logo=github)
@@ -20,16 +21,39 @@ I'm a student pursuing a B.E. in artificial intelligence and machine learning. I
 ![AI/ML Enthusiast](https://img.shields.io/badge/AI%2FML-Enthusiast-%230075A8.svg?style=plastic&logo=ai)
 
 
+### 🔍 I'm currently looking for:
+A full-time role in AI/ML, Data Analysis, or Python Development.  
 
-- 💻 My technical skills include proficiency in programming languages like C, C++, Java, and Python.
-- 🌐 I have experience with version control using Git and GitHub.
-- 🛠️ I enjoy collaborating as an open-source contributor.
-- 📊 I'm currently learning data science with Python.
+✅ Ready to join immediately  
+
+📈 Open to high-growth, innovation-driven teams  
+
+### 💼 About Me:
+
+- 👩‍💻 Strong foundation in Python, SQL, Power BI, Tableau, and Excel
+- 💡 Quick learner, innovation seeker & continuous improvement enthusiast
+- 💬 Experienced in real-world data projects with business impact
+- 🛠 Contributing to open source and exploring new tech trends
 - 📚 My hobby is learning new things and staying curious.
 - 🚀 Ongoing Development: Continuously improving my programming and development skills.
 
+
+### ⚙️ Technical Skills
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?logo=MySQL&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?logo=Power-BI&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-%23217E1F.svg?logo=microsoft-excel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=plastic&logo=openstack&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+
 <div class="image-container">
-  <img align="right" alt="coding" width="400" src="https://cdn.stuffanswered.com/stuffanswered/wp-content/uploads/2020/10/what-are-the-best-programs-for-learning-to-code.jpg">
+  <img align="right" alt="coding" width="400" src="Screenshot 2025-06-04 211710.png">
 </div>
 </body>
 </html>
@@ -43,27 +67,12 @@ I'm a student pursuing a B.E. in artificial intelligence and machine learning. I
 ![LinkedIn Connections](https://img.shields.io/badge/LinkedIn-500+-%230A66C2.svg?style=social&logo=linkedin)
 
 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=plastic&logo=openstack&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FarhaKousar1601&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FarhaKousar1601&theme=default&hide_border=false)<br/>
 
 
 [![](https://visitcount.itsvg.in/api?id=FarhaKousar1601&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhakousar1601" alt="farhakousar1601" /></a> </p>
-
-
-
-
-
-[![FarhaKousar1601's GitHub | Stats](https://stats.quine.sh/FarhaKousar1601/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=FarhaKousar1601)
-
-[![FarhaKousar1601's GitHub | Languages](https://stats.quine.sh/FarhaKousar1601/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=FarhaKousar1601)
-[![FarhaKousar1601's GitHub | Topics Over Time](https://stats.quine.sh/FarhaKousar1601/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=FarhaKousar1601)
-[![FarhaKousar1601's GitHub | Dependencies](https://stats.quine.sh/FarhaKousar1601/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=FarhaKousar1601)
 
 
 
@@ -96,6 +105,13 @@ I'm a student pursuing a B.E. in artificial intelligence and machine learning. I
 
 
 ![image](https://github.com/FarhaKousar1601/FarhaKousar1601/assets/139753510/2beea17e-5459-4104-9cd5-d2319e722f61)
+
+### 🚀 Let's Collaborate
+
+If you're hiring, collaborating, or building something exciting — let’s talk!  
+💼 [LinkedIn](https://www.linkedin.com/in/farha-kousar) | 📧 farhakousar576@gmail.com  
+
+_Updated for 2025 | Actively job-seeking | Available immediately_ 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
