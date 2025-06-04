@@ -52,11 +52,10 @@ A full-time role in AI/ML, Data Analysis, or Python Development.
 ![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=plastic&logo=openstack&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 
-<div class="image-container">
+
+
   <img align="right" alt="coding" width="400" src="Screenshot 2025-06-04 211710.png">
-</div>
-</body>
-</html>
+
 
 
 ## 🌐 Socials:
