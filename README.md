@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<img src="https://github.com/FarhaKousar1601/FarhaKousar1601/raw/main/Farha%20Kousar%20(2).png" alt="GitHub Profile Banner">
+<img src="Blue Purple Modern Abstract Tech Background Data Analyst LinkedIn Banner.gif" alt="GitHub Profile Banner">
 
 
 
