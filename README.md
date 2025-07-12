@@ -102,7 +102,7 @@ I've recently graduated with a B.E. in Artificial Intelligence & Machine Learnin
 
 
 
-  <img align="centre" alt="coding" width="400" src="Screenshot 2025-06-04 211710.png">
+  <img align="centre" alt="coding" width="800" src="Screenshot 2025-06-04 211710.png">
 
 
 
@@ -122,10 +122,12 @@ I've recently graduated with a B.E. in Artificial Intelligence & Machine Learnin
 
 <a href="http://www.github.com/FarhaKousar1601"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhaKousar1601&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a> <a href="https://github.com/FarhaKousar1601" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhaKousar1601&langs_count=10&title_color=3382ed&text_color=000000&icon_color=14b8a6&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-
+https://www.statsforgit.com/farhakousar1601
+![Github Stats](https://greptile-stats.vercel.app/api/widget/farhakousar1601/stats)
+![Github Highlights](https://greptile-stats.vercel.app/api/widget/farhakousar1601/highlights)
+![Github Archetype](https://greptile-stats.vercel.app/api/widget/farhakousar1601/archtype)
+![Github Quirk](https://greptile-stats.vercel.app/api/widget/farhakousar1601/quirk)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
@@ -138,6 +140,7 @@ I've recently graduated with a B.E. in Artificial Intelligence & Machine Learnin
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=farhakousar1601&theme=github-compact"/>
+
 
 
 
