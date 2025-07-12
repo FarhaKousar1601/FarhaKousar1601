@@ -2,15 +2,10 @@
 <img src="Blue Purple Modern Abstract Tech Background Data Analyst LinkedIn Banner.gif" alt="GitHub Profile Banner">
 
 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Farha Kousar
+====================================================================================================================================
 
-
-# 👋 Hi, I'm Farha Kousar
-
-🎓Graduate B.E. in Artificial Intelligence and Machine Learning  
-
-🚀 Actively Seeking Full-Time Roles 
-
-🎯 Passionate about AI/ML, Data Analytics, and Python Development  
+AIML Graduate | Data & AI Enthusiast | Career Mentor | Open to Tech Roles
 
 ![Learning Data Science](https://img.shields.io/badge/Learning-Data%20Science-%23108CFF.svg?style=plastic&logo=data)
 ![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-%2346BC25.svg?style=plastic&logo=github)
@@ -19,64 +14,118 @@
 ![Innovation Seeker](https://img.shields.io/badge/Innovation-Seeker-%238A2BE2.svg?style=plastic&logo=innovation)
 ![Continuous Learner](https://img.shields.io/badge/Continuous-Learner-%232E8B57.svg?style=plastic&logo=learn)
 ![AI/ML Enthusiast](https://img.shields.io/badge/AI%2FML-Enthusiast-%230075A8.svg?style=plastic&logo=ai)
+![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true) <img src="https://img.shields.io/github/followers/FarhaKousar1601?style=plastic&label=GitHub+Followers&logo=github&color=181717" alt="GitHub Followers" />
+<img src="https://img.shields.io/badge/DEV.to-1.2k%2B-FEDEDF.svg?style=plastic&logo=devdotto&logoColor=black" alt="DEV Community Followers" /> <img src="https://img.shields.io/badge/LinkedIn-11.4k%2B-0077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Connections" /> <img src="https://img.shields.io/badge/Kaggle-36%20Followers-20BEFF?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle Followers" />
 
 
-### 🔍 I'm currently looking for:
-A full-time role in AI/ML, Data Analysis, or Python Development.  
+I've recently graduated with a B.E. in Artificial Intelligence & Machine Learning and am passionate about building data-driven solutions that make real-world impact.
 
-✅ Ready to join immediately  
+👩‍💻 Strong technical foundation in Python, SQL, Power BI, Tableau, Excel, and Looker Studio
 
-📈 Open to high-growth, innovation-driven teams  
+💡 Lifelong learner with a passion for innovation and continuous improvement
 
-### 💼 About Me:
+💬 Hands-on experience with real-world AI/ML and data analytics projects that deliver measurable business impact
 
-- 👩‍💻 Strong foundation in Python, SQL, Power BI, Tableau, and Excel
-- 💡 Quick learner, innovation seeker & continuous improvement enthusiast
-- 💬 Experienced in real-world data projects with business impact
-- 🛠 Contributing to open source and exploring new tech trends
-- 📚 My hobby is learning new things and staying curious.
-- 🚀 Ongoing Development: Continuously improving my programming and development skills.
+🛠️ Active open-source contributor and tech community advocate
 
+📚 Curious by nature — always exploring new tools, frameworks, and industry trends
 
-### ⚙️ Technical Skills
+🚀 Committed to growth — consistently sharpening programming, data science, and storytelling skills
 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300f.svg?logo=MySQL&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?logo=Power-BI&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?logo=Tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-%23217E1F.svg?logo=microsoft-excel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=plastic&logo=openstack&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+🧠 Mentor & peer guide — helping others learn while growing my own knowledge
+
+🎯 Focused on purpose-driven work in data, AI/ML, and software engineering
+
+* 🌍  I'm based in Bengaluru,Karnatake,India
+  
+* ✉️  You can contact me at [farhakousar576@gmail.com](mailto:farhakousar576@gmail.com)
+  
+* 🧠  I'm learning Deep Learning with Hugging Face 🤖 AI Agent, LLMS,OpenAI APIs, and LangChain, SQL & Python DSA through LeetCode challenges
+  
+* 🤝  I'm open to collaborating on Data analytics & AI/ML projects , Open-source contributions, Hackathons & student-led innovation challenges , dashboards, and Python
+  
+* ⚡  I believe in learning by building — but between models, I might just be... 🕷️ Spiderman in disguise (shhh 🤫 don't tell anyone!)
 
 
 
-  <img align="right" alt="coding" width="400" src="Screenshot 2025-06-04 211710.png">
+
+### 🛠 Skills
+
+#### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+
+#### 📚 Libraries & Frameworks
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557C.svg?style=plastic&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-004D61.svg?style=plastic)
+![NLTK](https://img.shields.io/badge/NLTK-%23007ACC.svg?style=plastic)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
+
+#### 📊 Data Visualization Tools
+![Power BI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=plastic&logo=Power-BI&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=plastic&logo=Tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4.svg?style=plastic&logo=google&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-%23217E1F.svg?style=plastic&logo=microsoft-excel&logoColor=white)
+
+#### 🛢 Databases
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=plastic&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white)
+
+#### ☁️ Cloud & DevOps
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=plastic&logo=firebase)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
+![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=plastic&logo=openstack&logoColor=white)
+
+#### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=plastic&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=plastic&logo=arduino&logoColor=white)
+
+
+#### 🤖 AI Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-4B9CD3?style=plastic&logo=openai&logoColor=white)
+![Bard](https://img.shields.io/badge/Bard-4285F4?style=plastic&logo=google&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=plastic&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=plastic&logo=openai&logoColor=white)
+![DALL·E](https://img.shields.io/badge/DALL·E-10A37F?style=plastic&logo=openai&logoColor=white)
+
+
+
+  <img align="centre" alt="coding" width="400" src="Screenshot 2025-06-04 211710.png">
+
+
 
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/farhakousar576?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/farhakousar16?igshid=ZDdkNTZiNTM=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/farha-kousar-6a9h1) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Farha-Kousar-4?ch=10&oid=1201136339&share=2b88e860&srid=uktngC&target_type=user) 
+### Socials
 
-![GitHub Followers](https://img.shields.io/github/followers/FarhaKousar1601?style=social)
-![DEV Community Followers](https://img.shields.io/badge/DEV%20Community-1000+-%230A0A0A.svg?style=social&logo=dev.to)
-![LinkedIn Connections](https://img.shields.io/badge/LinkedIn-500+-%230A66C2.svg?style=social&logo=linkedin)
+<p align="left"> <a href="https://www.dev.to/FarhaKousar16" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV" title="DEV" /> </picture> </a> <a href="https://discord.com/users/FarhaKousar16" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.facebook.com/FarhaKousar16" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a> <a href="https://www.github.com/FarhaKousar1601" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.gitlab.com/Farhakousar1601" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="undefined" title="undefined" /> </picture> </a> <a href="https://Farha/kousar16.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" alt="Hashnode" title="Hashnode" /> </picture> </a> <a href="http://www.instagram.com/FarhaKousar16" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </picture> </a> <a href="https://www.linkedin.com/in/FarhaKousar16" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="http://www.medium.com/FarhaKousar16" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://FarhaKousar16" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" alt="RSS" title="RSS" /> </picture> </a> <a href="https://www.stackoverflow.com/users/FarhaKousar16" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" /> </picture> </a> <a href="https://www.x.com/FarhaKousar16" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.youtube.com/@FarhaKousar16" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a> <a href="https://www.twitch.tv/FarhaKousar1601" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" title="Twitch" /> </picture> </a></p>
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FarhaKousar1601&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FarhaKousar1601&theme=default&hide_border=false)<br/>
 
+<b>My GitHub Stats</b>
 
-[![](https://visitcount.itsvg.in/api?id=FarhaKousar1601&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="http://www.github.com/FarhaKousar1601"><img src="https://github-readme-stats.vercel.app/api?username=FarhaKousar1601&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=14b8a6&bg_color=ffffff&hide_border=true&show_icons=true" alt="FarhaKousar1601's GitHub stats" /></a>
 
+<a href="http://www.github.com/FarhaKousar1601"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhaKousar1601&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a> <a href="https://github.com/FarhaKousar1601" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhaKousar1601&langs_count=10&title_color=3382ed&text_color=000000&icon_color=14b8a6&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<b>Top Repositories</b>
 
-</div><h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhakousar1601&langs_count=8&theme=" alt=farhakousar1601 />
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
@@ -104,6 +153,128 @@ A full-time role in AI/ML, Data Analysis, or Python Development.
 
 
 ![image](https://github.com/FarhaKousar1601/FarhaKousar1601/assets/139753510/2beea17e-5459-4104-9cd5-d2319e722f61)
+
+![Daily Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+---
+
+## 💖 Live GitHub Dashboard
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=FarhaKousar1601&layout=compact&theme=tokyonight)
+![GitHub Snake](https://github.com/FarhaKousar1601/FarhaKousar1601/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌏 Visitors Around the World
+
+![Visitor Map](https://visitor-badge.glitch.me/badge?page_id=FarhaKousar1601)
+
+---
+
+## ⏰ Digital Clock
+
+<p align="center">
+  <img src="https://github.com/ashutosh1919/animated-clocks/blob/master/clocks/clock.gif?raw=true" width="150px">
+</p>
+
+---
+
+## 📉 Auto-updating Resume Card
+
+[![GitHub Resume](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarhaKousar1601&theme=github)](https://github.com/FarhaKousar1601)
+
+---
+
+## 🌍 Hosted Dashboards & Projects
+
+- [Retail Sales Dashboard](https://yourdashboardlink.com)
+- [Sentiment Analysis Tool](https://yourmlprojectlink.com)
+
+---
+
+## 🧠 Fun Personality
+
+> I mentor like a coach, debug like Sherlock, and dance (badly) while deploying models. 😄
+
+---
+
+## 🥇 Hackathon & Community Badges
+
+<p>
+  <img src="https://img.shields.io/badge/GSSoC-2025-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SSOC-Winner-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hacktoberfest-Participant-FF69B4?style=for-the-badge"/>
+</p>
+
+---
+
+## 🚀 Community Involvement
+
+- NGWL'25 @ McKinsey
+- Career Buddy @ Wadhwani Foundation
+- Topmate Mentor (Top 0.1%)
+
+---
+
+## 🔧 Code Snippet Example
+
+```python
+# Calculate average from list
+numbers = [10, 20, 30, 40]
+average = sum(numbers) / len(numbers)
+print(f"Average: {average}")
+```
+
+---
+
+## 🔀 Random Dev Joke
+
+![Dev Joke](https://readme-jokes.vercel.app/api)
+
+---
+
+## ✨ Testimonials / Highlights
+
+> "Farha is a fast learner and a phenomenal mentor. Her dashboards saved us hours of manual work." — *Mentor at Wadhwani*
+
+---
+
+## 🔪 ASCII Banner
+
+```
+  ______              _             _                      
+ |  ____|            | |           | |                     
+ | |__ ___  ___ _ __ | |_ _ __ ___ | |__   __ _ ___  ___   
+ |  __/ __|/ _ \ '_ \| __| '__/ _ \| '_ \ / _` / __|/ _ \  
+ | |  \__ \  __/ | | | |_| | | (_) | | | | (_| \__ \ (_) | 
+ |_|  |___/\___|_| |_|\__|_|  \___/|_| |_|\__,_|___/\___/  
+```
+
+---
+
+## 🔊 Voice Intro (Coming Soon)
+
+> ⚡ Want to hear my story in 60 seconds? Stay tuned for voice bio integration!
+
+---
+
+## 📊 Stack Overflow Stats
+
+![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/14786912?label=Farha's%20Reputation&style=social)
+
+---
+
+## 🕹️ Playable Game
+
+[![Play Snake](https://img.shields.io/badge/Play%20Snake-%2300FF00.svg?style=for-the-badge&logo=python&logoColor=white)](https://playsnake.org)
+
+---
+
+## 📙 Blog Section (Coming Soon)
+
+- How I Cracked NGWL @ McKinsey
+- Top 5 Excel Tips for Analysts
+- From Intern to Mentor: My Journey in Data
 
 ### 🚀 Let's Collaborate
 
