@@ -5,7 +5,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Farha Kousar
 ====================================================================================================================================
 
-AIML Graduate | Data & AI Enthusiast | Career Mentor | Open to Tech Roles
+![NUX Octodex](https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/NUX_Octodex.gif)
 
 ![Learning Data Science](https://img.shields.io/badge/Learning-Data%20Science-%23108CFF.svg?style=plastic&logo=data)
 ![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-%2346BC25.svg?style=plastic&logo=github)
@@ -14,8 +14,12 @@ AIML Graduate | Data & AI Enthusiast | Career Mentor | Open to Tech Roles
 ![Innovation Seeker](https://img.shields.io/badge/Innovation-Seeker-%238A2BE2.svg?style=plastic&logo=innovation)
 ![Continuous Learner](https://img.shields.io/badge/Continuous-Learner-%232E8B57.svg?style=plastic&logo=learn)
 ![AI/ML Enthusiast](https://img.shields.io/badge/AI%2FML-Enthusiast-%230075A8.svg?style=plastic&logo=ai)
+![ORCID](https://img.shields.io/badge/ORCID-0009--0007--5908--8093-brightgreen?style=flat&logo=orcid)
+<img src="https://img.shields.io/badge/Wadhwani%20Foundation-Career%20Buddy-blue?style=plastic&logo=wadhwani-foundation&logoColor=white" alt="Wadhwani Career Buddy" /> <img src="https://img.shields.io/badge/Topmate-Mentor-purple?style=plastic&logo=topmate&logoColor=white" alt="Topmate Mentor" /> <img src="https://img.shields.io/badge/NPTEL-Star%20Performer-orange?style=plastic&logo=nptel&logoColor=white" alt="NPTEL Star Performer" />
+ <img src="https://img.shields.io/badge/Open%20to%20Work-Actively%20Seeking-yellowgreen?style=plastic&logo=openaccess&logoColor=white" alt="Open to Work" />
 ![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true) <img src="https://img.shields.io/github/followers/FarhaKousar1601?style=plastic&label=GitHub+Followers&logo=github&color=181717" alt="GitHub Followers" />
 <img src="https://img.shields.io/badge/DEV.to-1.2k%2B-FEDEDF.svg?style=plastic&logo=devdotto&logoColor=black" alt="DEV Community Followers" /> <img src="https://img.shields.io/badge/LinkedIn-11.4k%2B-0077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Connections" /> <img src="https://img.shields.io/badge/Kaggle-36%20Followers-20BEFF?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle Followers" />
+
 
 
 I've recently graduated with a B.E. in Artificial Intelligence & Machine Learning and am passionate about building data-driven solutions that make real-world impact.
@@ -145,7 +149,7 @@ I've recently graduated with a B.E. in Artificial Intelligence & Machine Learnin
 <a href="http://www.github.com/FarhaKousar1601"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhaKousar1601&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a> <a href="https://github.com/FarhaKousar1601" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhaKousar1601&langs_count=10&title_color=3382ed&text_color=000000&icon_color=14b8a6&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhakousar1601" alt="farhakousar1601" /></a> </p>
 
-
+[![Farha Kousar profile views](https://u8views.com/api/v1/github/profiles/139753510/views/day-week-month-total-count.svg)](https://u8views.com/github/FarhaKousar1601)
 
 https://www.statsforgit.com/farhakousar1601
 ![Github Stats](https://greptile-stats.vercel.app/api/widget/farhakousar1601/stats)
