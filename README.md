@@ -211,6 +211,13 @@ https://alamnr.github.io/profile.html?user=farhakousar1601
 
 ![image](https://github.com/FarhaKousar1601/FarhaKousar1601/assets/139753510/2beea17e-5459-4104-9cd5-d2319e722f61)
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake.svg">
+</picture>
 
 ### 🚀 Let's Collaborate
 
