@@ -165,6 +165,9 @@ https://gitglance.vercel.app/farhakousar1601
 
 <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-26%20211614.png" width="1000" />
 
+![Screenshot 1](https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-26%20214115.png)
+
+<img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-26%20214039.png" width="1000" />
 
 
 
