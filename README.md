@@ -52,7 +52,6 @@ I've recently graduated with a B.E. in Artificial Intelligence & Machine Learnin
 
 
 
-
 ### 🛠 Skills
 
 #### 👨‍💻 Programming Languages
@@ -157,6 +156,14 @@ https://www.statsforgit.com/farhakousar1601
 ![Github Archetype](https://greptile-stats.vercel.app/api/widget/farhakousar1601/archtype)
 ![Github Quirk](https://greptile-stats.vercel.app/api/widget/farhakousar1601/quirk)
 
+
+https://gitglance.vercel.app/farhakousar1601
+
+<img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-26%20211525.png" width="800" />
+
+<img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-26%20211551.png" width="800" />
+
+<img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-26%20211614.png" width="1000" />
 
 
 
