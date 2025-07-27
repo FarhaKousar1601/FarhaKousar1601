@@ -132,6 +132,7 @@ I've recently graduated with a B.E. in Artificial Intelligence & Machine Learnin
 
 # 📊 GitHub Stats:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00AEF7&width=435&lines=Let's+dive+into+my+github+stats)](https://git.io/typing-svg)
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/FarhaKousar1601"><img src="https://github-readme-stats.vercel.app/api?username=FarhaKousar1601&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=14b8a6&bg_color=ffffff&hide_border=true&show_icons=true" alt="FarhaKousar1601's GitHub stats" /></a>
@@ -258,6 +259,40 @@ https://alamnr.github.io/profile.html?user=farhakousar1601
 </p>
 
 
+<p align="center">
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ss.jpg" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ss2.jpg" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/v.jpg" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/orc.jpg" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/or.jpg" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ml'.jpg" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/halo.jpg" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/gf.jpg" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/genai101.jpg" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ca.jpg" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ass.jpg" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/al.jpg" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-27%20141005.png" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-27%20140934.png" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-27%20133149.png" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-26%20223600.png" height="90"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/1.jpg" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/10.jpg" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/11.jpg" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/12.jpg" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/13.jpg" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/15.jpg" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/2.jpg" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/3.jpg" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/4.jpg" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/5.jpg" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/6.jpg" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/7.jpg" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/9.jpg" height="90"/>
+</p>
 
 
 
