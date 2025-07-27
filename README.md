@@ -190,6 +190,79 @@ https://alamnr.github.io/profile.html?user=farhakousar1601
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00AEF7&width=435&lines=Badges+I've+Earned+So+Far)](https://git.io/typing-svg)
 
+
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
+ 
+</div>
+<p align="center">
+  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ss.jpg?raw=true">
+    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ss.jpg?raw=true" width="100" />
+  </a>
+  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ss2.jpg?raw=true">
+    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ss2.jpg?raw=true" width="100" />
+  </a>
+  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/v.jpg?raw=true">
+    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/v.jpg?raw=true" width="100" />
+  </a>
+  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/orc.jpg?raw=true">
+    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/orc.jpg?raw=true" width="100" />
+  </a>
+  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/or.jpg?raw=true">
+    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/or.jpg?raw=true" width="100" />
+  </a>
+  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ml'.jpg?raw=true">
+    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ml'.jpg?raw=true" width="100" />
+  </a>
+  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/halo.jpg?raw=true">
+    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/halo.jpg?raw=true" width="100" />
+  </a>
+  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/gf.jpg?raw=true">
+    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/gf.jpg?raw=true" width="100" />
+  </a>
+  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/genai101.jpg?raw=true">
+    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/genai101.jpg?raw=true" width="100" />
+  </a>
+  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ca.jpg?raw=true">
+    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ca.jpg?raw=true" width="100" />
+  </a>
+  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ass.jpg?raw=true">
+    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ass.jpg?raw=true" width="100" />
+  </a>
+  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/al.jpg?raw=true">
+    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/al.jpg?raw=true" width="100" />
+  </a>
+  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-27%20141005.png?raw=true">
+    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-27%20141005.png?raw=true" width="100" />
+  </a>
+  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-27%20140934.png?raw=true">
+    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-27%20140934.png?raw=true" width="100" />
+  </a>
+  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-27%20133149.png?raw=true">
+    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-27%20133149.png?raw=true" width="100" />
+  </a>
+  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-26%20223600.png?raw=true">
+    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-26%20223600.png?raw=true" width="1000" />
+  </a>
+</p>
+
+
+
+
+
+
+
 [![An image of @farhakousar1601's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/farhakousar1601)](https://holopin.io/@farhakousar1601)
 
 
@@ -202,6 +275,20 @@ https://alamnr.github.io/profile.html?user=farhakousar1601
 
 
 ![image](https://github.com/FarhaKousar1601/FarhaKousar1601/assets/139753510/2beea17e-5459-4104-9cd5-d2319e722f61)
+
+
+### ✨ Quotes
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+### 😄 Jokes
+![Jokes Card](https://readme-jokes.vercel.app/api?type=horizontal&theme=light)
+
+### 📚 Random GitHub Facts (Text-Based Example)
+> 💡 Did you know? GitHub was founded in 2008 and acquired by Microsoft in 2018.
+
+> 🤯 Fun Fact: The GitHub mascot is named **Octocat**.
+
+
 
 ### 🐍 Contribution Snake
 
