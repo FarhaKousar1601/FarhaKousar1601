@@ -206,87 +206,40 @@ https://alamnr.github.io/profile.html?user=farhakousar1601
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
  
-</div>
-<p align="center">
-  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ss.jpg?raw=true">
-    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ss.jpg?raw=true" width="100" />
-  </a>
-  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ss2.jpg?raw=true">
-    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ss2.jpg?raw=true" width="100" />
-  </a>
-  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/v.jpg?raw=true">
-    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/v.jpg?raw=true" width="100" />
-  </a>
-  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/orc.jpg?raw=true">
-    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/orc.jpg?raw=true" width="100" />
-  </a>
-  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/or.jpg?raw=true">
-    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/or.jpg?raw=true" width="100" />
-  </a>
-  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ml'.jpg?raw=true">
-    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ml'.jpg?raw=true" width="100" />
-  </a>
-  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/halo.jpg?raw=true">
-    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/halo.jpg?raw=true" width="100" />
-  </a>
-  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/gf.jpg?raw=true">
-    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/gf.jpg?raw=true" width="100" />
-  </a>
-  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/genai101.jpg?raw=true">
-    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/genai101.jpg?raw=true" width="100" />
-  </a>
-  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ca.jpg?raw=true">
-    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ca.jpg?raw=true" width="100" />
-  </a>
-  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ass.jpg?raw=true">
-    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ass.jpg?raw=true" width="100" />
-  </a>
-  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/al.jpg?raw=true">
-    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/al.jpg?raw=true" width="100" />
-  </a>
-  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-27%20141005.png?raw=true">
-    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-27%20141005.png?raw=true" width="100" />
-  </a>
-  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-27%20140934.png?raw=true">
-    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-27%20140934.png?raw=true" width="100" />
-  </a>
-  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-27%20133149.png?raw=true">
-    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-27%20133149.png?raw=true" width="100" />
-  </a>
-  <a href="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-26%20223600.png?raw=true">
-    <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-26%20223600.png?raw=true" width="1000" />
-  </a>
-</p>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-26%20223600.png" height="1000"/>
 
 
 <p align="center">
   <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ss.jpg" height="90"/>
   <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ss2.jpg" height="90"/>
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/v.jpg" height="90"/>
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/orc.jpg" height="90"/>
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/or.jpg" height="90"/>
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ml'.jpg" height="90"/>
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/halo.jpg" height="90"/>
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/gf.jpg" height="90"/>
+   <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ca.jpg" height="90"/>
+   <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/15.jpg" height="90"/>
+ <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ml'.jpg" height="90"/>
+   <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/al.jpg" height="90"/> 
+   <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-27%20140934.png" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/3.jpg" height="90"/>
   <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/genai101.jpg" height="90"/>
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ca.jpg" height="90"/>
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ass.jpg" height="90"/>
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/al.jpg" height="90"/>
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-27%20141005.png" height="90"/>
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-27%20140934.png" height="90"/>
+
+
+
+   <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/orc.jpg" height="90"/>
+  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/or.jpg" height="90"/>  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-27%20141005.png" height="90"/> 
+
+ 
+ 
+
   <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-27%20133149.png" height="90"/>
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-26%20223600.png" height="90"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/1.jpg" height="90"/>
+ 
   <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/10.jpg" height="90"/>
   <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/11.jpg" height="90"/>
   <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/12.jpg" height="90"/>
   <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/13.jpg" height="90"/>
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/15.jpg" height="90"/>
+ <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/1.jpg" height="90"/>
   <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/2.jpg" height="90"/>
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/3.jpg" height="90"/>
+  
   <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/4.jpg" height="90"/>
   <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/5.jpg" height="90"/>
   <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/6.jpg" height="90"/>
@@ -296,20 +249,20 @@ https://alamnr.github.io/profile.html?user=farhakousar1601
 
 
 
+<a href="https://app.daily.dev/farhakousar16"><img src="https://api.daily.dev/devcards/v2/CtQQqRMSwNeQmB3BQsdW9.png?type=default&r=di7" width="356" alt="Farha Kousar's Dev Card"/></a>  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FarhaKousar1601)  
 
-
-[![An image of @farhakousar1601's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/farhakousar1601)](https://holopin.io/@farhakousar1601)
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FarhaKousar1601)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 
 
 
 ![image](https://github.com/FarhaKousar1601/FarhaKousar1601/assets/139753510/2beea17e-5459-4104-9cd5-d2319e722f61)
+
+
+ <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/halo.jpg" height="1000"/>
+
+[![An image of @farhakousar1601's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/farhakousar1601)](https://holopin.io/@farhakousar1601)
+
+
 
 
 ### ✨ Quotes
