@@ -7,11 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ![NUX Octodex](https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/NUX_Octodex.gif)
 
-![Learning Data Science](https://img.shields.io/badge/Learning-Data%20Science-%23108CFF.svg?style=plastic&logo=data)
-![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-%2346BC25.svg?style=plastic&logo=github)
-![Tech Enthusiast](https://img.shields.io/badge/Tech-Enthusiast-%23FFD700.svg?style=plastic&logo=tech)
-![Coding Challenges](https://img.shields.io/badge/Coding-Challenges-%23FF6347.svg?style=plastic&logo=codeforces)
-![Innovation Seeker](https://img.shields.io/badge/Innovation-Seeker-%238A2BE2.svg?style=plastic&logo=innovation)
+
 ![Continuous Learner](https://img.shields.io/badge/Continuous-Learner-%232E8B57.svg?style=plastic&logo=learn)
 ![AI/ML Enthusiast](https://img.shields.io/badge/AI%2FML-Enthusiast-%230075A8.svg?style=plastic&logo=ai)
 ![ORCID](https://img.shields.io/badge/ORCID-0009--0007--5908--8093-brightgreen?style=flat&logo=orcid)
@@ -59,16 +55,12 @@ I've recently graduated with a B.E. in Artificial Intelligence & Machine Learnin
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 
 #### 📚 Libraries & Frameworks
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557C.svg?style=plastic&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-004D61.svg?style=plastic)
-![NLTK](https://img.shields.io/badge/NLTK-%23007ACC.svg?style=plastic)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
 
 #### 📊 Data Visualization Tools
