@@ -1,8 +1,8 @@
-<div align="center">
-  <object data="https://raw.githubusercontent.com/FarhaKousar1601/FarhaKousar1601/main/gemini-svg%20%288%29.svg" type="image/svg+xml" width="100%">
-    <img src="https://raw.githubusercontent.com/FarhaKousar1601/FarhaKousar1601/main/gemini-svg%20%288%29.svg" width="100%" alt="Farha Kousar Profile Banner" />
-  </object>
-</div>
+<p align="center">
+  <a href="https://farha-kousar.vercel.app/" target="_blank">
+    <img src="./svgviewer-png-output.png" width="100%" alt="Farha Kousar Profile Banner" />
+  </a>
+</p>
 
 <div align="center">
 
@@ -13,4 +13,3 @@
 
 </div>
 
----
