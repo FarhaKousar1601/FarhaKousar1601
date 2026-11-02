@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/FarhaKousar1601/FarhaKousar1601/main/gemini-svg%20%288%29.svg" width="100%" alt="Farha Kousar Profile Banner" />
-</p>
+<div align="center">
+  <object data="https://raw.githubusercontent.com/FarhaKousar1601/FarhaKousar1601/main/gemini-svg%20%288%29.svg" type="image/svg+xml" width="100%">
+    <img src="https://raw.githubusercontent.com/FarhaKousar1601/FarhaKousar1601/main/gemini-svg%20%288%29.svg" width="100%" alt="Farha Kousar Profile Banner" />
+  </object>
+</div>
 
 <div align="center">
 
