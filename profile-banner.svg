@@ -1,0 +1,108 @@
+<svg width="1600" height="440" viewBox="0 0 1600 440" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#021b1b"/>
+      <stop offset="100%" stop-color="#041a1a"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#0c4f4f" stroke-opacity="0.2"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="1.6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="440" fill="url(#bgGrad)"/>
+  <rect width="1600" height="440" fill="url(#grid)"/>
+
+  <rect x="26" y="18" width="1548" height="404" rx="18" fill="rgba(1,26,27,0.82)" stroke="#0d7a7a" stroke-width="2.2"/>
+
+  <g opacity="0.95">
+    <circle cx="68" cy="58" r="8" fill="#ff5f57"/>
+    <circle cx="96" cy="58" r="8" fill="#ffbd2e"/>
+    <circle cx="124" cy="58" r="8" fill="#28c840"/>
+  </g>
+
+  <text x="432" y="62" fill="#9bead1" font-size="26" font-family="'Courier New', monospace" font-weight="700" letter-spacing="2">
+    FARHA@GITHUB: ~/PROFILE
+  </text>
+
+  <rect x="1320" y="42" width="188" height="28" rx="4" fill="rgba(18,70,70,0.7)" stroke="#1b9494" stroke-width="1.2"/>
+  <text x="1364" y="61" fill="#8be6d5" font-size="16" font-family="'Courier New', monospace" letter-spacing="2">
+    SESSION_001
+  </text>
+
+  <g>
+    <text x="90" y="165" fill="#30f0c2" font-size="26" font-family="'Courier New', monospace" font-weight="700">
+      &gt; INITIALIZING DIGITAL IDENTITY...
+    </text>
+
+    <text x="90" y="228" fill="#e8fff9" font-size="72" font-family="'Segoe UI', Tahoma, sans-serif" font-weight="800" letter-spacing="1">
+      FARHA <tspan fill="#3ef0c8">KOUSAR</tspan>
+    </text>
+
+    <rect x="90" y="248" width="520" height="4" fill="#35e0b8" opacity="0.9"/>
+    <rect x="90" y="255" width="520" height="4" fill="#35e0b8" opacity="0.3"/>
+
+    <text x="90" y="305" fill="#3ef0c8" font-size="30" font-family="'Segoe UI', Tahoma, sans-serif" font-weight="700" letter-spacing="2">
+      AI &amp; MACHINE LEARNING
+    </text>
+
+    <text x="90" y="345" fill="#d5fff5" font-size="24" font-family="'Segoe UI', Tahoma, sans-serif" letter-spacing="3">
+      DATA ANALYTICS / PYTHON DEVELOPMENT
+    </text>
+
+    <text x="90" y="385" fill="#40f5d4" font-size="22" font-family="'Courier New', monospace">
+      &gt; Turning data into insights.
+    </text>
+
+    <text x="90" y="410" fill="#40f5d4" font-size="22" font-family="'Courier New', monospace">
+      &gt; Exploring intelligence through code.
+    </text>
+  </g>
+
+  <g>
+    <rect x="993" y="126" width="470" height="208" rx="10" fill="rgba(3,32,31,0.85)" stroke="#0cae9a" stroke-width="1.5"/>
+    <rect x="1002" y="136" width="452" height="32" rx="5" fill="rgba(5,48,46,0.9)" stroke="#0e8079" stroke-width="1"/>
+    <text x="1035" y="157" fill="#9bead1" font-size="18" font-family="'Courier New', monospace">
+      farha_profile.sh
+    </text>
+
+    <g transform="translate(1016,180)">
+      <text x="0" y="0" fill="#40f5d4" font-size="22" font-family="'Courier New', monospace" font-weight="700">$</text>
+      <text x="20" y="0" fill="#3ef0c8" font-size="22" font-family="'Courier New', monospace">whoami</text>
+
+      <text x="0" y="44" fill="#d9fffb" font-size="21" font-family="'Courier New', monospace">AI &amp; ML Graduate</text>
+
+      <text x="0" y="92" fill="#40f5d4" font-size="22" font-family="'Courier New', monospace" font-weight="700">$</text>
+      <text x="20" y="92" fill="#3ef0c8" font-size="22" font-family="'Courier New', monospace">toolkit --list</text>
+
+      <text x="0" y="136" fill="#d9fffb" font-size="21" font-family="'Courier New', monospace">Python | SQL | Excel</text>
+      <text x="0" y="163" fill="#d9fffb" font-size="21" font-family="'Courier New', monospace">Power BI | Pandas | NumPy</text>
+
+      <text x="0" y="216" fill="#40f5d4" font-size="22" font-family="'Courier New', monospace" font-weight="700">$</text>
+      <text x="20" y="216" fill="#3ef0c8" font-size="22" font-family="'Courier New', monospace">status --current</text>
+      <text x="280" y="216" fill="#d9fffb" font-size="20" font-family="'Courier New', monospace">BUILDING &amp; LEARNING</text>
+    </g>
+
+    <g opacity="0.7">
+      <circle cx="1452" cy="195" r="6" fill="#4bf5d8"/>
+      <circle cx="1520" cy="195" r="6" fill="#4bf5d8" opacity="0.7"/>
+      <circle cx="1452" cy="336" r="6" fill="#4bf5d8"/>
+      <circle cx="1520" cy="336" r="6" fill="#4bf5d8" opacity="0.7"/>
+    </g>
+  </g>
+
+  <g>
+    <text x="90" y="432" fill="#8fead6" font-size="20" font-family="'Courier New', monospace" letter-spacing="2">
+      BENGALURU, INDIA
+    </text>
+    <text x="1228" y="432" fill="#8fead6" font-size="20" font-family="'Courier New', monospace" letter-spacing="2">
+      THINK / BUILD / LEARN
+    </text>
+  </g>
+</svg>
