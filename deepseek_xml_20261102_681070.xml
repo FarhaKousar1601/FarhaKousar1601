@@ -1,0 +1,264 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1350" width="100%" height="100%" role="img" aria-label="Farha Kousar - Dynamic Flow Hacker Terminal Portfolio Banner">
+  <title>Farha Kousar — Hacker Terminal Portfolio</title>
+
+  <defs>
+    <!-- Fonts (Fixed the missing URL at the start) -->
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&amp;family=Space+Grotesk:wght@700;800&amp;display=swap');
+
+      .fk-bg { fill: #020605; }
+      .fk-mono { font-family: 'Fira Code', 'JetBrains Mono', monospace; }
+      .fk-head { font-family: 'Space Grotesk', sans-serif; font-weight: 800; }
+
+      .text-green { fill: #00ffaa; }
+      .text-dim { fill: #4e7c6d; }
+      .text-light { fill: #d0f4ea; }
+
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+      @keyframes flowWave1 {
+        0% { transform: translateY(0px) scale(1); }
+        50% { transform: translateY(-15px) scale(1.02); }
+        100% { transform: translateY(0px) scale(1); }
+      }
+      @keyframes flowWave2 {
+        0% { transform: translateY(0px) scale(1); }
+        50% { transform: translateY(20px) scale(0.98); }
+        100% { transform: translateY(0px) scale(1); }
+      }
+      @keyframes pulseGlow {
+        0%, 100% { opacity: 0.25; }
+        50% { opacity: 0.55; }
+      }
+
+      .anim-blink { animation: blink 0.9s step-start infinite; }
+      .anim-flow-1 { animation: flowWave1 12s ease-in-out infinite; transform-origin: center; }
+      .anim-flow-2 { animation: flowWave2 16s ease-in-out infinite; transform-origin: center; }
+      .anim-pulse { animation: pulseGlow 6s ease-in-out infinite; }
+    </style>
+
+    <!-- Dynamic Flow Gradients -->
+    <linearGradient id="flow-grad-1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00ffaa" stop-opacity="0.18" />
+      <stop offset="50%" stop-color="#008855" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#002b1f" stop-opacity="0.0" />
+    </linearGradient>
+
+    <linearGradient id="flow-grad-2" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00b87c" stop-opacity="0.2" />
+      <stop offset="60%" stop-color="#00ffaa" stop-opacity="0.05" />
+      <stop offset="100%" stop-color="#011610" stop-opacity="0.0" />
+    </linearGradient>
+
+    <linearGradient id="border-glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00ffaa" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#00b87c" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#022c22" stop-opacity="0.8" />
+    </linearGradient>
+
+    <linearGradient id="bar-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ffaa" />
+      <stop offset="50%" stop-color="#00b87c" />
+      <stop offset="100%" stop-color="#030706" stop-opacity="0" />
+    </linearGradient>
+
+    <radialGradient id="ambient-glow" cx="50%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#00ffaa" stop-opacity="0.12" />
+      <stop offset="50%" stop-color="#005533" stop-opacity="0.04" />
+      <stop offset="100%" stop-color="#020605" stop-opacity="0.0" />
+    </radialGradient>
+  </defs>
+
+  <!-- Deep Canvas Background -->
+  <rect width="1200" height="1350" class="fk-bg" />
+  <rect width="1200" height="1350" fill="url(#ambient-glow)" class="anim-pulse" />
+
+  <!-- Real Dynamic Flow Background Wave Elements -->
+  <g class="anim-flow-1">
+    <path d="M -100 200 C 300 50, 700 400, 1300 150 L 1300 0 L -100 0 Z" fill="url(#flow-grad-1)" />
+    <path d="M -100 800 C 400 950, 800 650, 1300 900 L 1300 1350 L -100 1350 Z" fill="url(#flow-grad-2)" />
+  </g>
+
+  <g class="anim-flow-2">
+    <path d="M 0 500 C 400 300, 800 700, 1200 450 L 1200 650 C 700 900, 300 550, 0 750 Z" fill="url(#flow-grad-2)" opacity="0.7" />
+  </g>
+
+  <!-- Full Page Main Container Window -->
+  <rect x="25" y="25" width="1150" height="1300" rx="16" fill="#030807" fill-opacity="0.9" stroke="url(#border-glow)" stroke-width="1.5" />
+
+  <!-- Terminal Top Control Bar -->
+  <rect x="25" y="25" width="1150" height="45" fill="#010403" rx="16" />
+  <rect x="25" y="50" width="1150" height="20" fill="#010403" />
+  <circle cx="55" cy="47" r="6" fill="#ff5f56" />
+  <circle cx="75" cy="47" r="6" fill="#ffbd2e" />
+  <circle cx="95" cy="47" r="6" fill="#27c93f" />
+  <text x="600" y="51" class="fk-mono" font-size="12" fill="#4e7c6d" text-anchor="middle" letter-spacing="1.5">FARHA@GITHUB:~ (HACKER TERMINAL PORTFOLIO KERNEL)</text>
+
+  <!-- ================= SECTION 1: HERO IDENTITY ================= -->
+  <g transform="translate(65, 110)">
+    <text x="0" y="0" class="fk-mono" font-size="14" fill="#00ffaa" font-weight="600">&gt; INITIALIZING PROFILE_CORE.sh...</text>
+    <text x="0" y="62" class="fk-head" font-size="52" fill="#ffffff" letter-spacing="2">FARHA KOUSAR</text>
+    <rect x="0" y="78" width="520" height="3" fill="url(#bar-grad)" rx="1.5" />
+    <text x="0" y="112" class="fk-mono" font-size="18" fill="#00ffaa" font-weight="700" letter-spacing="1">AI &amp; MACHINE LEARNING ENGINEER</text>
+    <text x="0" y="138" class="fk-mono" font-size="13" fill="#88ab9e">B.E. AI &amp; ML Graduate | Data Analytics &amp; Python Developer</text>
+    <text x="0" y="162" class="fk-mono" font-size="12" fill="#4e7c6d">📍 Bengaluru, India | ✉️ farhakousar576@gmail.com</text>
+  </g>
+
+  <!-- Hero Right Panel: Quick Status Widget -->
+  <g transform="translate(740, 105)">
+    <rect x="0" y="0" width="395" height="155" rx="10" fill="#020705" fill-opacity="0.9" stroke="#00ffaa" stroke-opacity="0.25" />
+    <rect x="0" y="0" width="395" height="30" rx="10" fill="#051410" />
+    <text x="15" y="20" class="fk-mono" font-size="11" fill="#00ffaa">telemetry_status.json</text>
+    
+    <g transform="translate(20, 52)" class="fk-mono" font-size="12">
+      <text x="0" y="0" fill="#4e7c6d">status:</text>
+      <text x="90" y="0" fill="#00ffaa">"Actively Seeking Roles"</text>
+
+      <text x="0" y="26" fill="#4e7c6d">focus:</text>
+      <text x="90" y="26" fill="#d0f4ea">"GenAI, LLMs, RAG &amp; Agents"</text>
+
+      <text x="0" y="52" fill="#4e7c6d">mentorship:</text>
+      <text x="90" y="52" fill="#00ffaa">"Topmate &amp; Wadhwani"</text>
+
+      <text x="0" y="78" fill="#4e7c6d">leetcode:</text>
+      <text x="90" y="78" fill="#d0f4ea">"Problem Solving &amp; Python DSA"</text>
+    </g>
+  </g>
+
+  <!-- ================= SECTION 2: $ whoami ================= -->
+  <g transform="translate(65, 305)">
+    <text x="0" y="0" class="fk-mono" font-size="16" fill="#00ffaa" font-weight="700">$ whoami</text>
+    
+    <rect x="0" y="18" width="1070" height="95" rx="8" fill="#020705" fill-opacity="0.9" stroke="#00ffaa" stroke-opacity="0.2" />
+    <text x="25" y="48" class="fk-mono" font-size="13" fill="#d0f4ea">I'm a B.E. Artificial Intelligence &amp; Machine Learning graduate from KNS Institute of Technology,</text>
+    <text x="25" y="72" class="fk-mono" font-size="13" fill="#d0f4ea">Bengaluru. Passionate about building practical solutions using data, programming, &amp; machine learning.</text>
+    <text x="25" y="96" class="fk-mono" font-size="12" fill="#4e7c6d">Previously completed a Data Analytics Internship at Wadhwani Foundation automating data workflows.</text>
+  </g>
+
+  <!-- ================= SECTION 3: $ tech_stack ================= -->
+  <g transform="translate(65, 445)">
+    <text x="0" y="0" class="fk-mono" font-size="16" fill="#00ffaa" font-weight="700">$ toolkit --list --categories</text>
+
+    <g transform="translate(0, 20)">
+      <rect x="0" y="0" width="345" height="110" rx="8" fill="#020705" fill-opacity="0.9" stroke="#00ffaa" stroke-opacity="0.2" />
+      <text x="20" y="28" class="fk-mono" font-size="13" fill="#00ffaa" font-weight="600">&gt; Languages &amp; Core</text>
+      <text x="20" y="58" class="fk-mono" font-size="12" fill="#d0f4ea">Python, SQL, Java, C++, C</text>
+      <text x="20" y="85" class="fk-mono" font-size="11" fill="#4e7c6d">Status: Production Ready</text>
+    </g>
+
+    <g transform="translate(362, 20)">
+      <rect x="0" y="0" width="345" height="110" rx="8" fill="#020705" fill-opacity="0.9" stroke="#00ffaa" stroke-opacity="0.2" />
+      <text x="20" y="28" class="fk-mono" font-size="13" fill="#00ffaa" font-weight="600">&gt; Data Analytics &amp; BI</text>
+      <text x="20" y="58" class="fk-mono" font-size="12" fill="#d0f4ea">Power BI, Tableau, Advanced Excel</text>
+      <text x="20" y="85" class="fk-mono" font-size="11" fill="#4e7c6d">Google Sheets, Looker Studio</text>
+    </g>
+
+    <g transform="translate(725, 20)">
+      <rect x="0" y="0" width="345" height="110" rx="8" fill="#020705" fill-opacity="0.9" stroke="#00ffaa" stroke-opacity="0.2" />
+      <text x="20" y="28" class="fk-mono" font-size="13" fill="#00ffaa" font-weight="600">&gt; AI / ML &amp; GenAI</text>
+      <text x="20" y="58" class="fk-mono" font-size="12" fill="#d0f4ea">PyTorch, Scikit-Learn, Pandas</text>
+      <text x="20" y="85" class="fk-mono" font-size="11" fill="#4e7c6d">Hugging Face, LangChain, OpenAI API</text>
+    </g>
+  </g>
+
+  <!-- ================= SECTION 4: $ experience ================= -->
+  <g transform="translate(65, 605)">
+    <text x="0" y="0" class="fk-mono" font-size="16" fill="#00ffaa" font-weight="700">$ history --experience</text>
+
+    <rect x="0" y="20" width="1070" height="150" rx="8" fill="#020705" fill-opacity="0.9" stroke="#00ffaa" stroke-opacity="0.2" />
+    
+    <g transform="translate(25, 45)">
+      <text x="0" y="0" class="fk-mono" font-size="14" fill="#ffffff" font-weight="700">Wadhwani Foundation — Data Analytics Intern</text>
+      <text x="800" y="0" class="fk-mono" font-size="12" fill="#00ffaa" text-anchor="end">Aug 2025 – Feb 2026</text>
+      <text x="0" y="24" class="fk-mono" font-size="12" fill="#d0f4ea">• Managed data workflows, institutional onboarding data, and structured educational records.</text>
+      <text x="0" y="48" class="fk-mono" font-size="12" fill="#d0f4ea">• Built interactive Power BI dashboards, automated Excel reports, and managed SQL/MongoDB datasets.</text>
+    </g>
+
+    <line x1="25" y1="110" x2="1045" y2="110" stroke="#133027" stroke-width="1" />
+
+    <g transform="translate(25, 130)">
+      <text x="0" y="0" class="fk-mono" font-size="13" fill="#ffffff" font-weight="600">Infosys Springboard (Python Intern) &amp; Rooman Technologies (AI/ML Intern)</text>
+      <text x="820" y="0" class="fk-mono" font-size="12" fill="#4e7c6d" text-anchor="end">2024 – 2025</text>
+    </g>
+  </g>
+
+  <!-- ================= SECTION 5: $ featured_projects ================= -->
+  <g transform="translate(65, 810)">
+    <text x="0" y="0" class="fk-mono" font-size="16" fill="#00ffaa" font-weight="700">$ projects --featured</text>
+
+    <g transform="translate(0, 20)">
+      <rect x="0" y="0" width="525" height="90" rx="8" fill="#020705" fill-opacity="0.9" stroke="#00ffaa" stroke-opacity="0.2" />
+      <text x="20" y="28" class="fk-mono" font-size="13" fill="#ffffff" font-weight="700">01. EcoAI — Smart Waste Classification</text>
+      <text x="20" y="52" class="fk-mono" font-size="11" fill="#00ffaa">Teachable Machine · Image Classification · AI/ML</text>
+      <text x="20" y="74" class="fk-mono" font-size="11" fill="#4e7c6d">Real-time computer vision prototype recognizing plastic, paper &amp; metal.</text>
+    </g>
+
+    <g transform="translate(545, 20)">
+      <rect x="0" y="0" width="525" height="90" rx="8" fill="#020705" fill-opacity="0.9" stroke="#00ffaa" stroke-opacity="0.2" />
+      <text x="20" y="28" class="fk-mono" font-size="13" fill="#ffffff" font-weight="700">02. Smart Discount Analyzer</text>
+      <text x="20" y="52" class="fk-mono" font-size="11" fill="#00ffaa">Python · Data Analytics · Looker Studio</text>
+      <text x="20" y="74" class="fk-mono" font-size="11" fill="#4e7c6d">Analyzed customer review datasets to optimize promotional discount structures.</text>
+    </g>
+
+    <g transform="translate(0, 125)">
+      <rect x="0" y="0" width="525" height="90" rx="8" fill="#020705" fill-opacity="0.9" stroke="#00ffaa" stroke-opacity="0.2" />
+      <text x="20" y="28" class="fk-mono" font-size="13" fill="#ffffff" font-weight="700">03. Walmart Sales Dashboard</text>
+      <text x="20" y="52" class="fk-mono" font-size="11" fill="#00ffaa">Power BI · Data Visualization</text>
+      <text x="20" y="74" class="fk-mono" font-size="11" fill="#4e7c6d">Comprehensive business reporting dashboard tracking quarterly KPIs &amp; trends.</text>
+    </g>
+
+    <g transform="translate(545, 125)">
+      <rect x="0" y="0" width="525" height="90" rx="8" fill="#020705" fill-opacity="0.9" stroke="#00ffaa" stroke-opacity="0.2" />
+      <text x="20" y="28" class="fk-mono" font-size="13" fill="#ffffff" font-weight="700">04. KickStartX — NextStep After 12th</text>
+      <text x="20" y="52" class="fk-mono" font-size="11" fill="#00ffaa">n8n · AI Chatbot · Workflow Automation</text>
+      <text x="20" y="74" class="fk-mono" font-size="11" fill="#4e7c6d">Automated conversational workflow guiding students through career pathways.</text>
+    </g>
+  </g>
+
+  <!-- ================= SECTION 6: $ connect_with_me ================= -->
+  <g transform="translate(65, 1070)">
+    <text x="0" y="0" class="fk-mono" font-size="16" fill="#00ffaa" font-weight="700">$ connect_with_me --links</text>
+
+    <rect x="0" y="20" width="1070" height="105" rx="8" fill="#020705" fill-opacity="0.9" stroke="#00ffaa" stroke-opacity="0.2" />
+
+    <a href="https://www.linkedin.com/in/farha-kousar" target="_blank">
+      <g transform="translate(25, 40)">
+        <rect x="0" y="0" width="320" height="65" rx="6" fill="#051410" stroke="#00ffaa" stroke-opacity="0.3" stroke-width="1" />
+        <rect x="15" y="15" width="35" height="35" rx="4" fill="#0077b5" />
+        <text x="32" y="38" class="fk-mono" font-size="20" font-weight="800" fill="#ffffff" text-anchor="middle">in</text>
+        <text x="65" y="32" class="fk-mono" font-size="13" font-weight="700" fill="#ffffff">LinkedIn Profile</text>
+        <text x="65" y="50" class="fk-mono" font-size="11" fill="#00ffaa">linkedin.com/in/farha-kousar</text>
+      </g>
+    </a>
+
+    <a href="https://farha-kousar.vercel.app/" target="_blank">
+      <g transform="translate(375, 40)">
+        <rect x="0" y="0" width="320" height="65" rx="6" fill="#051410" stroke="#00ffaa" stroke-opacity="0.3" stroke-width="1" />
+        <rect x="15" y="15" width="35" height="35" rx="4" fill="#00ffaa" />
+        <polygon points="32,22 23,38 41,38" fill="#020705" />
+        <text x="65" y="32" class="fk-mono" font-size="13" font-weight="700" fill="#ffffff">Personal Portfolio</text>
+        <text x="65" y="50" class="fk-mono" font-size="11" fill="#00ffaa">farha-kousar.vercel.app</text>
+      </g>
+    </a>
+
+    <a href="https://github.com/FarhaKousar1601" target="_blank">
+      <g transform="translate(725, 40)">
+        <rect x="0" y="0" width="320" height="65" rx="6" fill="#051410" stroke="#00ffaa" stroke-opacity="0.3" stroke-width="1" />
+        <rect x="15" y="15" width="35" height="35" rx="4" fill="#181717" stroke="#00ffaa" stroke-width="1" />
+        <circle cx="32" cy="32" r="10" fill="#00ffaa" />
+        <circle cx="32" cy="32" r="6" fill="#051410" />
+        <text x="65" y="32" class="fk-mono" font-size="13" font-weight="700" fill="#ffffff">GitHub Profile</text>
+        <text x="65" y="50" class="fk-mono" font-size="11" fill="#00ffaa">github.com/FarhaKousar1601</text>
+      </g>
+    </a>
+  </g>
+
+  <!-- ================= FOOTER ================= -->
+  <g transform="translate(65, 1220)">
+    <line x1="0" y1="0" x2="1070" y2="0" stroke="#133027" stroke-width="1.5" />
+    <text x="0" y="32" class="fk-mono" font-size="13" fill="#00ffaa">$ connect --secure <tspan class="anim-blink">_</tspan></text>
+    <text x="1070" y="32" class="fk-mono" font-size="11" fill="#4e7c6d" text-anchor="end">THINK / BUILD / LEARN</text>
+  </g>
+</svg>
