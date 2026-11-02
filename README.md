@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://farha-kousar.vercel.app/" target="_blank">
-    <img src="./svgviewer-png-output.png" width="100%" alt="Farha Kousar Profile Banner" />
+    <img src="./gemini-svg%20(9).svg" width="100%" alt="Farha Kousar Profile Banner" />
   </a>
 </p>
 
@@ -12,4 +12,3 @@
 
 
 </div>
-
