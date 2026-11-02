@@ -10,7 +10,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ![Continuous Learner](https://img.shields.io/badge/Continuous-Learner-%232E8B57.svg?style=plastic&logo=learn)
 ![AI/ML Enthusiast](https://img.shields.io/badge/AI%2FML-Enthusiast-%230075A8.svg?style=plastic&logo=ai)
-![ORCID](https://img.shields.io/badge/ORCID-0009--0007--5908--8093-brightgreen?style=flat&logo=orcid)
 <img src="https://img.shields.io/badge/Wadhwani%20Foundation-Career%20Buddy-blue?style=plastic&logo=wadhwani-foundation&logoColor=white" alt="Wadhwani Career Buddy" /> <img src="https://img.shields.io/badge/Topmate-Mentor-purple?style=plastic&logo=topmate&logoColor=white" alt="Topmate Mentor" /> <img src="https://img.shields.io/badge/NPTEL-Star%20Performer-orange?style=plastic&logo=nptel&logoColor=white" alt="NPTEL Star Performer" />
  <img src="https://img.shields.io/badge/Open%20to%20Work-Actively%20Seeking-yellowgreen?style=plastic&logo=openaccess&logoColor=white" alt="Open to Work" />
 ![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true) <img src="https://img.shields.io/github/followers/FarhaKousar1601?style=plastic&label=GitHub+Followers&logo=github&color=181717" alt="GitHub Followers" />
@@ -124,37 +123,12 @@ I've recently graduated with a B.E. in Artificial Intelligence & Machine Learnin
 
 # 📊 GitHub Stats:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00AEF7&width=435&lines=Let's+dive+into+my+github+stats)](https://git.io/typing-svg)
-<details>
+
 <summary>📊 My GitHub Stats</summary>
 
-<a href="http://www.github.com/FarhaKousar1601"><img src="https://github-readme-stats.vercel.app/api?username=FarhaKousar1601&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=14b8a6&bg_color=ffffff&hide_border=true&show_icons=true" alt="FarhaKousar1601's GitHub stats" /></a>
-![](https://github-contributor-stats.vercel.app/api?username=farhakousar1601&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
 <a href="http://www.github.com/FarhaKousar1601"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhaKousar1601&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a> <a href="https://github.com/FarhaKousar1601" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhaKousar1601&langs_count=10&title_color=3382ed&text_color=000000&icon_color=14b8a6&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhakousar1601" alt="farhakousar1601" /></a> </p>
 
-</details>
-
-<details>
-<summary>👀 Profile Views & Additional Stats</summary>
-
-[![Farha Kousar profile views](https://u8views.com/api/v1/github/profiles/139753510/views/day-week-month-total-count.svg)](https://u8views.com/github/FarhaKousar1601)
-
-https://www.statsforgit.com/farhakousar1601
-![Github Stats](https://greptile-stats.vercel.app/api/widget/farhakousar1601/stats)
-![Github Highlights](https://greptile-stats.vercel.app/api/widget/farhakousar1601/highlights)
-![Github Archetype](https://greptile-stats.vercel.app/api/widget/farhakousar1601/archtype)
-![Github Quirk](https://greptile-stats.vercel.app/api/widget/farhakousar1601/quirk)
-
-https://gitglance.vercel.app/farhakousar1601
-
----
-[![](https://visitcount.itsvg.in/api?id=farhakousar1601&icon=0&color=1)](https://visitcount.itsvg.in)
-
-</details>
-
-<details>
-<summary>📈 More Statistics</summary>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
@@ -165,101 +139,10 @@ https://gitglance.vercel.app/farhakousar1601
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farhakousar1601&theme=github" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farhakousar1601&theme=github" height="180em" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=farhakousar1601&theme=github-compact"/>
-
-</details>
-<details>
-
-<img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-26%20211525.png" width="800" />
-
-<img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-26%20211551.png" width="800" />
-
-<img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-26%20211614.png" width="1000" />
-
-https://alamnr.github.io/profile.html?user=farhakousar1601
-
-![Screenshot 1](https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-26%20214115.png)
-
-<img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-26%20214039.png" width="1000" />
-
-<img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/halo.jpg" height="1000"/>
-
-</details>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<details>
-<summary>🏆 Badges I've Earned So Far</summary>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00AEF7&width=435&lines=Badges+I've+Earned+So+Far)](https://git.io/typing-svg)
-
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
-
-<p align="center">
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ss.jpg" height="90"/>
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ss2.jpg" height="90"/>
-   <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ca.jpg" height="90"/>
-   <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/15.jpg" height="90"/>
- <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/ml'.jpg" height="90"/>
-   <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/al.jpg" height="90"/> 
-   <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-27%20140934.png" height="90"/>
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/3.jpg" height="90"/>
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/genai101.jpg" height="90"/>
-
-   <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/orc.jpg" height="90"/>
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/or.jpg" height="90"/>  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-27%20141005.png" height="90"/> 
-
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/Screenshot%202025-07-27%20133149.png" height="90"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/10.jpg" height="90"/>
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/11.jpg" height="90"/>
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/12.jpg" height="90"/>
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/13.jpg" height="90"/>
- <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/1.jpg" height="90"/>
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/2.jpg" height="90"/>
-  
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/4.jpg" height="90"/>
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/5.jpg" height="90"/>
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/6.jpg" height="90"/>
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/7.jpg" height="90"/>
-  <img src="https://github.com/FarhaKousar1601/FarhaKousar1601/blob/main/9.jpg" height="90"/>
-</p>
-
-<a href="https://app.daily.dev/farhakousar16"><img src="https://api.daily.dev/devcards/v2/CtQQqRMSwNeQmB3BQsdW9.png?type=default&r=di7" width="356" alt="Farha Kousar's Dev Card"/></a>  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/FarhaKousar1601)  
-
-[![An image of @farhakousar1601's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/farhakousar1601)](https://holopin.io/@farhakousar1601)
-
-</details>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">
 
 
 
-
-
-### ✨ Quotes
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 😄 Jokes
-![Jokes Card](https://readme-jokes.vercel.app/api?type=horizontal&theme=light)
-
-### 📚 Random GitHub Facts (Text-Based Example)
-> 💡 Did you know? GitHub was founded in 2008 and acquired by Microsoft in 2018.
-
-> 🤯 Fun Fact: The GitHub mascot is named **Octocat**.
 
 
 
